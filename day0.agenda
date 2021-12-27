@@ -22,7 +22,7 @@ https://docs.soliditylang.org/en/v0.8.11/
  - gas model: gas price * gas
  - message calls: chain call, basically contract call contract
  - instruction set: https://docs.soliditylang.org/en/v0.8.11/yul.html#opcodes
-3.1 contract (contract(class) -> instance identified by addres (object))
+3.1 contract (contract(class) -> instance identified by address (object))
 3.2 state declaration
 3.3 event (included in transaction receipt, see as logs)
 3.4 function (public/private)
@@ -42,3 +42,7 @@ https://hardhat.org/getting-started/
 Demonstrate contract deployment and verification
 
 6. Demonstrate gnosis safe wallet(if we still have time)
+
+7 Paper reading
+ - https://bitcoin.org/bitcoin.pdf
+ - https://ethereum.github.io/yellowpaper/paper.pdf

@@ -1,0 +1,44 @@
+1. NFT MarketPlace
+
+https://opensea.io/
+
+2. ERC721
+
+https://eips.ethereum.org/EIPS/eip-721
+https://docs.opensea.io/docs/1-structuring-your-smart-contract
+https://docs.openzeppelin.com/contracts/4.x/api/token/erc721
+https://github.com/OpenZeppelin/openzeppelin-contracts/tree/master/contracts/token/ERC721
+
+** block chain to reality(aws) **
+tokenURI(tokenId)
+
+3. Solidity Introduction
+
+https://docs.soliditylang.org/en/v0.8.11/
+
+3.0 EVM
+ - accounts: external accounts & contract accounts
+ - transactions: drive the state machine, including payload & funds
+ - gas model: gas price * gas
+ - message calls: chain call, basically contract call contract
+ - instruction set: https://docs.soliditylang.org/en/v0.8.11/yul.html#opcodes
+3.1 contract (contract(class) -> instance identified by addres (object))
+3.2 state declaration
+3.3 event (included in transaction receipt, see as logs)
+3.4 function (public/private)
+
+4. Framework: Hardhat & Truffle
+
+https://hardhat.org/getting-started/
+
+5. Additional tools:
+
+- etherscan
+- metamask
+- infura
+- tenderly
+- gnosis
+
+Demonstrate contract deployment and verification
+
+6. Demonstrate gnosis safe wallet(if we still have time)

@@ -1,13 +1,13 @@
 # pentagon-meetup
 Technical meetup, sometimes face to face, mostly virtual.
 
-## NFT Market & ERC721
+## Day0: NFT Market & ERC721
 
 - NFT Market
 - ERC721 Standard
 - Taste Smartcontract development (solidity & toolsuites)
 
-## Uniswap & ERC20
+## Day1: Uniswap & ERC20
 
 - Cex and Dex
 - Uniswap
@@ -15,18 +15,20 @@ Technical meetup, sometimes face to face, mostly virtual.
 - Sushi swap, pencakeswap etc.
 - Concept of defi
 
-## Stable Coin
+## Day2: Stable Coin
 
 - USDT backed by real assets(cash, commercial paper)
 - MakerDao/Dai: Algorithm stable coin
 - Dao concept and governance
 
-## Lending Protocol
+## Day3: Lending Protocol
 
 - AAVE
 
-## Cross Chain Protocol
+## Day4: Cross Chain Protocol
 
 - Anyswap
 - Polynetwork
 - Polkdot (introduce substrate)
+
+# To Be Continued

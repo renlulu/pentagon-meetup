@@ -25,7 +25,11 @@ https://docs.soliditylang.org/en/v0.8.11/
 3.1 contract (contract(class) -> instance identified by address (object))
 3.2 state declaration
 3.3 event (included in transaction receipt, see as logs)
-3.4 function (public/private)
+3.4 function (external/internal/public/private)
+ - private means it's only callable from other functions inside the contract
+ - internal is like private but can also be called by contracts that inherit from the current one
+ - external can only be called outside the contract
+ - public can be called anywhere, both internally and externally.
 
 4. Framework: Hardhat & Truffle
 

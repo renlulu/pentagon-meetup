@@ -1,0 +1,27 @@
+1. Automated Market Maker aka AMM
+
+- transitional model:
+  - order book
+  - bid and ask (p2p)
+  - complex strategies
+
+- AMM:
+  - trading pair e.g. eth/usdt
+  - don't need a counterparty to make a trade (p2c: peer to contract)
+  - algorithm: x * y == k which determine the price
+  - liquidity pool: which traders can trade against
+  - liquidity provider aka LP, function as market maker, earn fees
+  - more liquidity, less slippage
+
+- Impermanent Loss
+ - happens when you 1. provide liquidity & 2. the dollar value changes
+ - image a liquidity pool: ETH/DAI
+ - ETH is 10, DAI is 100, so k == 10 * 100, and current ETH price is 10 DAI, ETH + DAI == 200USD
+ - Alice own 10% share: 1 ETH 10 DAI
+ - If outside the protocol say on biance, ETH price raise to 400 DAI, people will arbitrage by adding
+   DAI and remove ETH (because within the protocol, ETH is cheap, don't you want the cheap asset)
+ - remember k is constant, so after people buying ETH, the amount might be: ETH 5, DAI 2000
+ - Alice still own 10% if it, so they are 0.5 ETH and 100 DAI == 400 USD
+ - But if Alice didn't deposit to become the LP, she now has 1 ETH and 10 DAI, totoal value is 500 USD
+
+refer https://academy.binance.com/en/articles/impermanent-loss-explained

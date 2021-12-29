@@ -1,6 +1,6 @@
 1. Automated Market Maker aka AMM
 
-- transitional model:
+- Traditional Model:
   - order book
   - bid and ask (p2p)
   - complex strategies

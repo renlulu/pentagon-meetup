@@ -16,8 +16,8 @@
 - Impermanent Loss
  - happens when you 1. provide liquidity & 2. the dollar value changes
  - image a liquidity pool: ETH/DAI
- - ETH is 10, DAI is 100, so k == 10 * 100, and current ETH price is 10 DAI, ETH + DAI == 200USD
- - Alice own 10% share: 1 ETH 10 DAI
+ - ETH is 10, DAI is 1000, so k == 10 * 1000, and current ETH price is 100 DAI
+ - Alice own 10% share: 1 ETH 100 DAI, ETH + DAI == 200USD
  - If outside the protocol say on biance, ETH price raise to 400 DAI, people will arbitrage by adding
    DAI and remove ETH (because within the protocol, ETH is cheap, don't you want the cheap asset)
  - remember k is constant, so after people buying ETH, the amount might be: ETH 5, DAI 2000

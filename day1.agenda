@@ -12,6 +12,7 @@
   - liquidity pool: which traders can trade against
   - liquidity provider aka LP, function as market maker, earn fees
   - more liquidity, less slippage
+  - LP token represents the share you one's deposit
 
 - Impermanent Loss
  - happens when you 1. provide liquidity & 2. the dollar value changes

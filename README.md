@@ -31,4 +31,10 @@ Technical meetup, sometimes face to face, mostly virtual.
 - Polynetwork
 - Polkdot (introduce substrate)
 
+## Day5: Re-Entrancy Attack
+
+- Vulnerability: fallback()
+- Demo: attack
+- Preventative Rechniques
+
 ## To Be Continued

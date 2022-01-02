@@ -37,4 +37,16 @@ Technical meetup, sometimes face to face, mostly virtual.
 - Demo: attack
 - Preventative Rechniques
 
+## Day6: MPT Proof
+
+## Day7: ZK Proof
+
+## Day8: Gamefi Demostration: Crabada on AVAE
+
+## Day9: Schnorr Algorithm
+
+## Day10: BLS Algorithm
+
+## Day11: PoW & PoS & PBFT
+
 ## To Be Continued

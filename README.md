@@ -35,7 +35,7 @@ Technical meetup, sometimes face to face, mostly virtual.
 
 - Vulnerability: fallback()
 - Demo: attack
-- Preventative Rechniques
+- Preventative Techniques
 
 ## Day6: MPT Proof
 

@@ -31,9 +31,15 @@ refer https://academy.binance.com/en/articles/impermanent-loss-explained
 
 https://uniswap.org/whitepaper.pdf
 
+twap(t1,t2) =  [ accumulated_price(t2) - accumulated_price(t1) ] / (t2-t1)
+
+wrapped eth: https://etherscan.io/address/0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2
+
 3. Sushiswap
 
 https://docs.sushi.com/
+
+Tokenomic
 
 4. ERC20
 

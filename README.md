@@ -44,19 +44,21 @@ Technical meetup, sometimes face to face, mostly virtual.
 - Verify proof
 - Application
 
-## Day7: ZK Proof
+## Day7: L2 - Optimistic Rollups 
 
-## Day8: Gamefi Demostration: Crabada on AVAX
+## Day9: ZK Proof
+
+## Day9: Gamefi Demostration: Crabada on AVAX
 
 - Main game: https://play.crabada.com/mine
 - Marketplace: https://marketplace.crabada.com/
 - Whitepaper: https://docs.crabada.com/
 - AAVX scan: https://snowtrace.io/
 
-## Day9: Schnorr Algorithm
+## Day10: Schnorr Algorithm
 
-## Day10: BLS Algorithm
+## Day11: BLS Algorithm
 
-## Day11: PoW & PoS & PBFT
+## Day12: PoW & PoS & PBFT
 
 ## To Be Continued

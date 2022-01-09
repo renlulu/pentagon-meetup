@@ -44,7 +44,12 @@ Technical meetup, sometimes face to face, mostly virtual.
 - Verify proof
 - Application
 
-## Day7: L2 - Optimistic Rollups 
+## Day7: L2 Scale
+
+- State Channel
+- Plasma
+- Optimistic Rollup
+- ZK Rollup
 
 ## Day9: ZK Proof
 
